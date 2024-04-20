@@ -9,8 +9,8 @@ Tell us about your project here
 ### Team Members
 [1.Revand S](revand5467)   
 [2.Nitish G. Saji](nit-bit-git)   
-[3.Navneeth Nair](enter_github_id_here)   
-[4.Sijo Ajay](enter_github_id_here)   
+[3.Navneeth Nair](enter_github_id_her)   
+[4.Sijo Ajay](Sijoajay)   
 
 ### Link to Project
 [Embed the live link of project](live_link)
